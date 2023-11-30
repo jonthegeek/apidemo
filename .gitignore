@@ -5,3 +5,4 @@
 .DS_Store
 .quarto
 docs
+deploy-sample01.R
